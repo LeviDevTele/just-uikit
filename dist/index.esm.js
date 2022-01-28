@@ -2209,14 +2209,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/cronofi",
+                href: "https://t.me/onyxcash_official",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/cronofifinance",
+        href: "https://twitter.com/cash_onyx",
     },
 ];
 var MENU_HEIGHT = 64;
