@@ -2387,7 +2387,7 @@ var StyledPanel = styled.div(templateObject_1$D || (templateObject_1$D = __makeT
 var Panel = function (props) {
     var isPushed = props.isPushed, showMenu = props.showMenu;
     return (React.createElement(StyledPanel, { isPushed: isPushed, showMenu: showMenu },
-//        React.createElement(PanelBody, __assign({}, props)),
+        React.createElement(PanelBody, __assign({}, props)),
 //        React.createElement("a", { href: "https://rugdoc.io/project/cronofi/" },
 //            React.createElement(Image, { src: "/images/rugdoc-liquid.png", width: 370, height: 121, responsive: true, alt: "RugDocLiquidityLocked" })),
 //        React.createElement("a", { href: "https://rugdoc.io/project/cronofi/" },
